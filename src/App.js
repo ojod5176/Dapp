@@ -1,11 +1,11 @@
 import './App.css';
 import React from'react';
-import Voteing from "./Votring";
+import SimpleVoting from "./SimpleVoting";
 
 function App() {
   return (
     <div className="App">
-       <Voteing />
+       <SimpleVoting />
     </div>
   );
 }
